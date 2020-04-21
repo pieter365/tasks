@@ -1,5 +1,19 @@
 # tasks
 
+###Usecase
+
+1.  List/Read
+2. See all remaning tasks
+3. See all completed tasks
+4. Create/Update/Delete
+5. Add new task
+6. Mark task as completed/remaning
+7. Edit existing task (name and status)
+8. Remove existing task
+9. Clean all completed tasks
+
+
+
 ```
 # ************************************************************
 # Sequel Pro SQL dump
